@@ -1,0 +1,45 @@
+# Awesome resources for learning Mandarin Chinese
+
+## 大家好 👋. This is a curated & opinionated list of resources that I used when learning Mandarin Chinese
+
+<p align="center">
+<img src="https://github.com/ravenbrightdesign/ravenbrightcss/blob/main/public/ravenbrightcss-banner.jpg?raw=true" alt="Ravenbright CSS Banner">
+</p>
+
+## 🔍 Online courses
+
+- https://www.coursera.org/learn/learn-chinese
+- https://www.coursera.org/specializations/hsk-learn-chinese
+- Hello Chinese
+- Duolingo
+- Flexi classes
+- Yoyochinese
+
+## 📗 Reading
+
+- https://resources.allsetlearning.com/chinese
+- https://hskreading.com/have-time-to-play/
+- https://mychinesereading.com/chinese-reading-material-beginners/
+- https://www.pleco.com
+- https://duchinese.net/
+- https://mandarinbean.com/category/beginner/
+
+## ✍️ Writing
+
+- https://www.chinese-grammar.com/beginner/
+- https://www.chinese-tools.com/tools/pinyin-editor.html
+- https://www.learnchineseez.com/
+- https://www.mdbg.net/chinese/dictionary?page=chardict
+
+## 🗣️ Speaking
+
+- https://resources.allsetlearning.com/chinese/pronunciation/
+- https://www.chinesepeach.com/
+- https://l-lingo.com/free-lessons/en/learn-chinese-mandarin
+
+## 👂 Listening
+
+- https://www.youtube.com/@EverydayChinese/videos
+- https://www.youtube.com/@MandarinClick
+- https://www.youtube.com/@LearnChineseOnline
+- https://www.youtube.com/channel/UCdwdSGQsSbcapDmODtOr58g
