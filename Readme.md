@@ -1,6 +1,6 @@
 # Awesome resources for learning Mandarin Chinese
 
-## 大家好 👋. This is a curated & opinionated list of resources that I used when learning Mandarin Chinese
+## 大家好 👋. This is a curated & opinionated list of resources that I used when learning Mandarin Chinese. Hope you find it useful!
 
 <p align="center">
 <img src="https://github.com/ravenbrightdesign/ravenbrightcss/blob/main/public/ravenbrightcss-banner.jpg?raw=true" alt="Ravenbright CSS Banner">
