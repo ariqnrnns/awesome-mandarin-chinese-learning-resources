@@ -30,6 +30,7 @@
 - https://www.chinese-tools.com/tools/pinyin-editor.html
 - https://www.learnchineseez.com/
 - https://www.mdbg.net/chinese/dictionary?page=chardict
+- https://play.google.com/store/apps/details?id=com.molatra.chinesewriterlite
 
 ## 🗣️ Speaking
 
