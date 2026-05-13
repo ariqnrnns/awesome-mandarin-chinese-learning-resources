@@ -23,6 +23,7 @@
 - https://www.pleco.com
 - https://duchinese.net/
 - https://mandarinbean.com/category/beginner/
+- https://pokelingo.io/en/riddle/?lang=zh-Hans
 
 ## ✍️ Writing
 
