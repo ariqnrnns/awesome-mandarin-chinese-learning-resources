@@ -44,3 +44,7 @@
 - https://www.youtube.com/@MandarinClick
 - https://www.youtube.com/@LearnChineseOnline
 - https://www.youtube.com/channel/UCdwdSGQsSbcapDmODtOr58g
+
+## Browser Extension
+
+- [YuzuLingo](https://www.yuzulingo.com) - Free browser extension that runs local OCR over video hardsubs (Bilibili, YouTube, iQIYI) to enable Zhongwen pop-up lookups and real-time Pinyin overlays.
