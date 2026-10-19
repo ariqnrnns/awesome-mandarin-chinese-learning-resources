@@ -37,6 +37,7 @@
 - https://resources.allsetlearning.com/chinese/pronunciation/
 - https://www.chinesepeach.com/
 - https://l-lingo.com/free-lessons/en/learn-chinese-mandarin
+- https://nihaolearn.com/pinyin/tone-trainer (browser-based tone trainer with pitch-curve feedback, no signup)
 
 ## 👂 Listening
 
