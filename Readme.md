@@ -26,6 +26,7 @@
 
 ## ✍️ Writing
 
+- https://zhongwenbishun.com/ — Chinese Stroke Order: free stroke-order lookup, animations, and handwriting practice (20,000+ characters)
 - https://www.chinese-grammar.com/beginner/
 - https://www.chinese-tools.com/tools/pinyin-editor.html
 - https://www.learnchineseez.com/
