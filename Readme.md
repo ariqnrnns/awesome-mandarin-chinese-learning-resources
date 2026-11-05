@@ -31,6 +31,7 @@
 - https://www.learnchineseez.com/
 - https://www.mdbg.net/chinese/dictionary?page=chardict
 - https://play.google.com/store/apps/details?id=com.molatra.chinesewriterlite
+- [MandarinReps](https://mandarinreps.com/chinese-typing-practice) - Free-to-start sentence-typing practice for HSK 2–4 learners using a Chinese Pinyin IME.
 
 ## 🗣️ Speaking
 
